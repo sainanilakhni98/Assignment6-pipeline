@@ -1,5 +1,6 @@
 package com.nagarro.EmployeeManagementApp;
 
+// include essential libraries
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
